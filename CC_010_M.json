@@ -1,0 +1,519 @@
+{
+	"floatCurves": [
+		{
+			"keys": [
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.022288735955953598,
+					"value": 0.049405965954065323,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.10000000149011612,
+					"value": 0.14134013652801514,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.20000000298023224,
+					"value": 0.34238997101783752,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.26377058029174805,
+					"value": 0.25856322050094604,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.30000001192092896,
+					"value": 0.13211967051029205,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.40000000596046448,
+					"value": 0.16204018890857697,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.45341598987579346,
+					"value": 0.29611754417419434,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.5,
+					"value": 0.10016452521085739,
+					"arriveTangent": 1.4000003337860107,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 1.4000003337860107,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.69999998807907104,
+					"value": 0.18569710850715637,
+					"arriveTangent": -0.80756503343582153,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -0.80756503343582153,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.80000001192092896,
+					"value": 0.34314477443695068,
+					"arriveTangent": -2.8333337306976318,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -2.8333337306976318,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.91994374990463257,
+					"value": 0.270315021276474,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 1,
+					"value": 0.3153853714466095,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				}
+			],
+			"defaultValue": 3.4028234663852886e+38,
+			"preInfinityExtrap": "RCCE_Constant",
+			"postInfinityExtrap": "RCCE_Constant"
+		},
+		{
+			"keys": [
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.050103392452001572,
+					"value": 0.35332536697387695,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.10000000149011612,
+					"value": 0.15136601030826569,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.40000000596046448,
+					"value": 0.37438294291496277,
+					"arriveTangent": 1.1666667461395264,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.5,
+					"value": 0.22081901133060455,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.52548122406005859,
+					"value": 0.10373619943857193,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.54444575309753418,
+					"value": 0.35379979014396667,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.55835312604904175,
+					"value": 0.19811476767063141,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.60000002384185791,
+					"value": 0.094330966472625732,
+					"arriveTangent": 0.98429948091506958,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0.98429948091506958,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.68857628107070923,
+					"value": 0.10326381772756577,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.80000001192092896,
+					"value": 0.18578889966011047,
+					"arriveTangent": -1.7500002384185791,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -1.7500002384185791,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 1,
+					"value": 0.23847334086894989,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				}
+			],
+			"defaultValue": 3.4028234663852886e+38,
+			"preInfinityExtrap": "RCCE_Constant",
+			"postInfinityExtrap": "RCCE_Constant"
+		},
+		{
+			"keys": [
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.04378187283873558,
+					"value": 0.051557771861553192,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.10000000149011612,
+					"value": 0.36370393633842468,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.14998331665992737,
+					"value": 0.012103205546736717,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.20000000298023224,
+					"value": 0.22391992807388306,
+					"arriveTangent": 0.33333325386047363,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.40916538238525391,
+					"value": 0.058047931641340256,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.60000002384185791,
+					"value": 0.31585651636123657,
+					"arriveTangent": 1.0238975286483765,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 1.0238975286483765,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.66834747791290283,
+					"value": 0.29693418741226196,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.80000001192092896,
+					"value": 0.15643170475959778,
+					"arriveTangent": -0.49999991059303284,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -0.49999991059303284,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 1,
+					"value": 0.015233566984534264,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				}
+			],
+			"defaultValue": 3.4028234663852886e+38,
+			"preInfinityExtrap": "RCCE_Constant",
+			"postInfinityExtrap": "RCCE_Constant"
+		},
+		{
+			"keys": [
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.10000000149011612,
+					"value": -0.049999963492155075,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.30000001192092896,
+					"value": 0.85000002384185791,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.40000000596046448,
+					"value": 0.070394821465015411,
+					"arriveTangent": -3.9736428902870102e-07,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -3.9736428902870102e-07,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.5,
+					"value": 0.15856194496154785,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.52421694993972778,
+					"value": 0.16813181340694427,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.60000002384185791,
+					"value": 1,
+					"arriveTangent": 0.14397174119949341,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0.14397174119949341,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.60682469606399536,
+					"value": 0.4670235812664032,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.64432567358016968,
+					"value": 1.0075246095657349,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.65403014421463013,
+					"value": 0.4680461585521698,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.80000001192092896,
+					"value": 1,
+					"arriveTangent": -2.5312502384185791,
+					"arriveTangentWeight": 0,
+					"leaveTangent": -2.5312502384185791,
+					"leaveTangentWeight": 0
+				},
+				{
+					"interpMode": "RCIM_Linear",
+					"tangentMode": "RCTM_Auto",
+					"tangentWeightMode": "RCTWM_WeightedNone",
+					"time": 0.89999997615814209,
+					"value": -0.049999963492155075,
+					"arriveTangent": 0,
+					"arriveTangentWeight": 0,
+					"leaveTangent": 0,
+					"leaveTangentWeight": 0
+				}
+			],
+			"defaultValue": 3.4028234663852886e+38,
+			"preInfinityExtrap": "RCCE_Constant",
+			"postInfinityExtrap": "RCCE_Constant"
+		}
+	],
+	"adjustHue": 0,
+	"adjustSaturation": 1,
+	"adjustBrightness": 1,
+	"adjustBrightnessCurve": 1,
+	"adjustVibrance": 0,
+	"adjustMinAlpha": 0,
+	"adjustMaxAlpha": 1,
+	"assetImportData":
+	{
+		"_ClassName": "/Script/Engine.AssetImportData",
+		"sourceData":
+		{
+		}
+	}
+}
